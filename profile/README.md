@@ -1,4 +1,4 @@
-## Hi there 👋 We are the bioinformatics users at Infectious Disease Immunology at Statens Serum Institut in Denmark.
+## Hi there 👋 This is the bioinformatics hub for users at Infectious Disease Immunology at Statens Serum Institut in Denmark.
 
 <!--
 
